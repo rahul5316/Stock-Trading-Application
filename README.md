@@ -1,1 +1,1 @@
-
+Stock Trading Application
